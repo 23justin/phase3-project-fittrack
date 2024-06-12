@@ -1,0 +1,8 @@
+README.md
+setup.py
+fittrack.egg-info/PKG-INFO
+fittrack.egg-info/SOURCES.txt
+fittrack.egg-info/dependency_links.txt
+fittrack.egg-info/entry_points.txt
+fittrack.egg-info/requires.txt
+fittrack.egg-info/top_level.txt
