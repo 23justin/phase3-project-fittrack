@@ -10,7 +10,6 @@
 - Log and view nutrition details.
 - Set and track fitness goals.
 - Set and view reminders.
-- Analyze collected data.
 
 
 
